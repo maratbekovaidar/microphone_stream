@@ -1,6 +1,9 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0" />
+      <root url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/mic_stream-0.5.4+1" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
